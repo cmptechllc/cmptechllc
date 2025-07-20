@@ -1,4 +1,4 @@
-# 👋 Welcome to CMP Automation and Robotics
+# 👋 Welcome to CMP Technologies, LLC
 
 ### 🤖 Freelance Robotics Programming | Python Automation | Industrial Integration
 
